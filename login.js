@@ -1,4 +1,4 @@
-function Login(){
-    document.getElementById('login');
+function LoginPage(){
+    document.getElementById('loginpage');
     
 }
